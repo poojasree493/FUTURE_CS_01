@@ -1,6 +1,4 @@
-
-
-Phishing_Email_Detection_and_Awareness_System# Phishing Email Detection and Awareness System
+# Phishing Email Detection and Awareness System
 
 ## Project Description
 This project focuses on identifying phishing emails and creating awareness about email-based cyber threats. The system analyzes suspicious email characteristics and helps users recognize phishing attempts.
